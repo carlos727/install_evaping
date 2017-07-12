@@ -2,9 +2,10 @@ name 'install_evaping'
 maintainer 'The Authors'
 maintainer_email 'you@example.com'
 license 'all_rights'
+version '0.2.0'
 description 'Installs/Configures install_evaping'
-long_description 'Installs/Configures install_evaping'
-version '0.1.0'
+long_description 'Cookbook to install Eva Ping Service 2.0'
+depends 'windows', '~> 1.44.1'
 
 # If you upload to Supermarket you should set this so your cookbook
 # gets a `View Issues` link

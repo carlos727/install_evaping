@@ -1,4 +1,3 @@
 # install_evaping
 
-TODO: Enter the cookbook description here.
-
+Cookbook to install Eva Ping Service 2.0.
